@@ -1,0 +1,16 @@
+{
+  "name": "uui-lib",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "uui-cli": "bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
